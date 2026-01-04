@@ -20,11 +20,6 @@ A hands-on project focused on deploying an open-source SIEM (Wazuh) to monitor, 
 - **Agent Enrollment:** Deployed the Wazuh agent to a Windows host via PowerShell with administrative privileges.
 - **Threat Simulation:** Conducted a successful brute-force simulation (logon failures) to verify real-time alerting.
 
-## 📊 Results & Evidence
-*Insert screenshots here:*
-1. **Agent Status:** Screenshot showing the 'Active' green status for your Windows agent.
-2. **Security Events:** Screenshot showing the dashboard spike from your failed login test.
-
 ## 🧠 Lessons Learned
 - Importance of resource management in virtualized security environments.
 - Understanding the flow of telemetry from an endpoint to a centralized dashboard.
